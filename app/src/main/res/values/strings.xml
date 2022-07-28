@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loudly Test</string>
+    <string name="app_bar_title">Git Hub Repo Listing</string>
+    <string name="test_str">Test</string>
+    <string name="try_again">Try again</string>
+    <string name="new_str">NEW</string>
+    <string name="native_str">Native</string>
+    <string name="learns_str">Learns</string>
+</resources>
