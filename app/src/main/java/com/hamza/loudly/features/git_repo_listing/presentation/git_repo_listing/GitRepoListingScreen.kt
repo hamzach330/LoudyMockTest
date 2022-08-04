@@ -107,6 +107,7 @@ fun GitRepoListViews(
     flow: Flow<PagingData<GitRepoItem>>
 ) {
     val lazyPagingItems = flow.collectAsLazyPagingItems()
+
     LazyColumn(
         verticalArrangement = Arrangement.spacedBy(10.dp),
         contentPadding = PaddingValues(horizontal = 10.dp, vertical = 8.dp),
